@@ -1,14 +1,14 @@
 {
   "development": {
     "username": "root",
-    "password": "Aritra17@",
+    "password": "null",
     "database": "crud",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "Aritra17@",
+    "password": "null",
     "database": "crud",
     "host": "127.0.0.1",
     "dialect": "mysql"
